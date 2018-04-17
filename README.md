@@ -7,4 +7,4 @@
 
 ## 学习日志
 2018-04-17  
-1.使用文本编辑器，创建第一个Python文件--hello.py  
+1.使用文本编辑器，创建第一个Python文件--[hello.py](./samples/basic/hello.py)  
